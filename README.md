@@ -5,7 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iztanpy)](https://git.io/streak-stats)
 
 
-I am Isaac, a graduate from NUS CS in 2024! Love building applications and working on new features :)) Take a look at my resume [here](https://github.com/iztanpy/resume)
+I am Isaac, a graduate from NUS CS in 2024! Love building applications and working on new features :)) Take a look at my resume [here](https://github.com/iztanpy/resume/blob/main/Isaac_resume-4.pdf)
 
 ## Languages and Frameworks ✨
 <div id="icons"> 
