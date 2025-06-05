@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
+<!--
 [![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=iztanpy&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iztanpy)](https://git.io/streak-stats)
 
 
